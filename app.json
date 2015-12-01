@@ -3,13 +3,14 @@
     "startup_app": {
         "name": "window-position",
         "description": "OpenFin POC",
-        "url": "http://www.openfin.co",
-        "uuid": "window-position-tgyjms4eandvlsor",
+        "_url": "http://local:8080/",
+        "url": "http://datamadic.github.io/of-window-position/",
+        "uuid": "window-position",
         "autoShow": true
     },
     "runtime": {
         "arguments": "",
-        "version": "beta"
+        "version": "stable"
     },
     "shortcut": {
         "company": "OpenFin",
