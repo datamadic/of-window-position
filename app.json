@@ -15,6 +15,7 @@
     "shortcut": {
         "company": "OpenFin",
         "description": "Openfin POC",
-        "name": "window-position"
+        "name": "window-position",
+        "icon": "http://demoappdirectory.openf.in/desktop/config/apps/OpenFin/HelloOpenFin/img/openfin.ico"
     }
 }
